@@ -1,0 +1,194 @@
+;Country;Servings od beer;Servings od spirit;Servings of wine;Total servings of alcohol
+0;Afghanistan;0;0;0;0
+1;Albania;89;132;54;275
+2;Algeria;25;0;14;39
+3;Andorra;245;138;312;695
+4;Angola;217;57;45;319
+5;Antigua & Barbuda;102;128;45;275
+6;Argentina;193;25;221;439
+7;Armenia;21;179;11;211
+8;Australia;261;72;212;545
+9;Austria;279;75;191;545
+10;Azerbaijan;21;46;5;72
+11;Bahamas;122;176;51;349
+12;Bahrain;42;63;7;112
+13;Bangladesh;0;0;0;0
+14;Barbados;143;173;36;352
+15;Belarus;142;373;42;557
+16;Belgium;295;84;212;591
+17;Belize;263;114;8;385
+18;Benin;34;4;13;51
+19;Bhutan;23;0;0;23
+20;Bolivia;167;41;8;216
+21;Bosnia-Herzegovina;76;173;8;257
+22;Botswana;173;35;35;243
+23;Brazil;245;145;16;406
+24;Brunei;31;2;1;34
+25;Bulgaria;231;252;94;577
+26;Burkina Faso;25;7;7;39
+27;Burundi;88;0;0;88
+28;Cote d'Ivoire;37;1;7;45
+29;Cabo Verde;144;56;16;216
+30;Cambodia;57;65;1;123
+31;Cameroon;147;1;4;152
+32;Canada;240;122;100;462
+33;Central African Republic;17;2;1;20
+34;Chad;15;1;1;17
+35;Chile;130;124;172;426
+36;China;79;192;8;279
+37;Colombia;159;76;3;238
+38;Comoros;1;3;1;5
+39;Congo;76;1;9;86
+40;Cook Islands;0;254;74;328
+41;Costa Rica;149;87;11;247
+42;Croatia;230;87;254;571
+43;Cuba;93;137;5;235
+44;Cyprus;192;154;113;459
+45;Czech Republic;361;170;134;665
+46;North Korea;0;0;0;0
+47;DR Congo;32;3;1;36
+48;Denmark;224;81;278;583
+49;Djibouti;15;44;3;62
+50;Dominica;52;286;26;364
+51;Dominican Republic;193;147;9;349
+52;Ecuador;162;74;3;239
+53;Egypt;6;4;1;11
+54;El Salvador;52;69;2;123
+55;Equatorial Guinea;92;0;233;325
+56;Eritrea;18;0;0;18
+57;Estonia;224;194;59;477
+58;Ethiopia;20;3;0;23
+59;Fiji;77;35;1;113
+60;Finland;263;133;97;493
+61;France;127;151;370;648
+62;Gabon;347;98;59;504
+63;Gambia;8;0;1;9
+64;Georgia;52;100;149;301
+65;Germany;346;117;175;638
+66;Ghana;31;3;10;44
+67;Greece;133;112;218;463
+68;Grenada;199;438;28;665
+69;Guatemala;53;69;2;124
+70;Guinea;9;0;2;11
+71;Guinea-Bissau;28;31;21;80
+72;Guyana;93;302;1;396
+73;Haiti;1;326;1;328
+74;Honduras;69;98;2;169
+75;Hungary;234;215;185;634
+76;Iceland;233;61;78;372
+77;India;9;114;0;123
+78;Indonesia;5;1;0;6
+79;Iran;0;0;0;0
+80;Iraq;9;3;0;12
+81;Ireland;313;118;165;596
+82;Israel;63;69;9;141
+83;Italy;85;42;237;364
+84;Jamaica;82;97;9;188
+85;Japan;77;202;16;295
+86;Jordan;6;21;1;28
+87;Kazakhstan;124;246;12;382
+88;Kenya;58;22;2;82
+89;Kiribati;21;34;1;56
+90;Kuwait;0;0;0;0
+91;Kyrgyzstan;31;97;6;134
+92;Laos;62;0;123;185
+93;Latvia;281;216;62;559
+94;Lebanon;20;55;31;106
+95;Lesotho;82;29;0;111
+96;Liberia;19;152;2;173
+97;Libya;0;0;0;0
+98;Lithuania;343;244;56;643
+99;Luxembourg;236;133;271;640
+100;Madagascar;26;15;4;45
+101;Malawi;8;11;1;20
+102;Malaysia;13;4;0;17
+103;Maldives;0;0;0;0
+104;Mali;5;1;1;7
+105;Malta;149;100;120;369
+106;Marshall Islands;0;0;0;0
+107;Mauritania;0;0;0;0
+108;Mauritius;98;31;18;147
+109;Mexico;238;68;5;311
+110;Micronesia;62;50;18;130
+111;Monaco;0;0;0;0
+112;Mongolia;77;189;8;274
+113;Montenegro;31;114;128;273
+114;Morocco;12;6;10;28
+115;Mozambique;47;18;5;70
+116;Myanmar;5;1;0;6
+117;Namibia;376;3;1;380
+118;Nauru;49;0;8;57
+119;Nepal;5;6;0;11
+120;Netherlands;251;88;190;529
+121;New Zealand;203;79;175;457
+122;Nicaragua;78;118;1;197
+123;Niger;3;2;1;6
+124;Nigeria;42;5;2;49
+125;Niue;188;200;7;395
+126;Norway;169;71;129;369
+127;Oman;22;16;1;39
+128;Pakistan;0;0;0;0
+129;Palau;306;63;23;392
+130;Panama;285;104;18;407
+131;Papua New Guinea;44;39;1;84
+132;Paraguay;213;117;74;404
+133;Peru;163;160;21;344
+134;Philippines;71;186;1;258
+135;Poland;343;215;56;614
+136;Portugal;194;67;339;600
+137;Qatar;1;42;7;50
+138;South Korea;140;16;9;165
+139;Moldova;109;226;18;353
+140;Romania;297;122;167;586
+141;Russian Federation;247;326;73;646
+142;Rwanda;43;2;0;45
+143;St. Kitts & Nevis;194;205;32;431
+144;St. Lucia;171;315;71;557
+145;St. Vincent & the Grenadines;120;221;11;352
+146;Samoa;105;18;24;147
+147;San Marino;0;0;0;0
+148;Sao Tome & Principe;56;38;140;234
+149;Saudi Arabia;0;5;0;5
+150;Senegal;9;1;7;17
+151;Serbia;283;131;127;541
+152;Seychelles;157;25;51;233
+153;Sierra Leone;25;3;2;30
+154;Singapore;60;12;11;83
+155;Slovakia;196;293;116;605
+156;Slovenia;270;51;276;597
+157;Solomon Islands;56;11;1;68
+158;Somalia;0;0;0;0
+159;South Africa;225;76;81;382
+160;Spain;284;157;112;553
+161;Sri Lanka;16;104;0;120
+162;Sudan;8;13;0;21
+163;Suriname;128;178;7;313
+164;Swaziland;90;2;2;94
+165;Sweden;152;60;186;398
+166;Switzerland;185;100;280;565
+167;Syria;5;35;16;56
+168;Tajikistan;2;15;0;17
+169;Thailand;99;258;1;358
+170;Macedonia;106;27;86;219
+171;Timor-Leste;1;1;4;6
+172;Togo;36;2;19;57
+173;Tonga;36;21;5;62
+174;Trinidad & Tobago;197;156;7;360
+175;Tunisia;51;3;20;74
+176;Turkey;51;22;7;80
+177;Turkmenistan;19;71;32;122
+178;Tuvalu;6;41;9;56
+179;Uganda;45;9;0;54
+180;Ukraine;206;237;45;488
+181;United Arab Emirates;16;135;5;156
+182;United Kingdom;219;126;195;540
+183;Tanzania;36;6;1;43
+184;USA;249;158;84;491
+185;Uruguay;115;35;220;370
+186;Uzbekistan;25;101;8;134
+187;Vanuatu;21;18;11;50
+188;Venezuela;333;100;3;436
+189;Vietnam;111;2;1;114
+190;Yemen;6;0;0;6
+191;Zambia;32;19;4;55
+192;Zimbabwe;64;18;4;86
